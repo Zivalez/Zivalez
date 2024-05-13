@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://i.pinimg.com/originals/da/3f/26/da3f26ad34b335c0c2ae189282cb0a0c.gif](https://i.pinimg.com/originals/da/3f/26/da3f26ad34b335c0c2ae189282cb0a0c.gif)"  />
+  <img height="150" src="https://github.com/Zivalez/Zivalez/blob/main/yamikochibi.gif?raw=true"  />
 </div>
 
 ###
