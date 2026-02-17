@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Zivalez | Aditya Dharma</h1>
+<h1 align="center">Zivalez | Aditya</h1>
 
 
 ###
