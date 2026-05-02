@@ -14,7 +14,7 @@ I'm a technology enthusiast who loves building web applications and exploring th
 - 📸 [**Virtual Photography** - Explore my 3D projects and in-game captures](https://vp.zvlz.my.id)
 
 <!--
-**d1ts05/d1ts05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Zivalez/Zivalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -33,17 +33,13 @@ Here are some ideas to get you started:
 ### Tech Stack & Tools
 
 **The Heavy Lifters (Systems)**\
-[![Go Rust Kotlin](https://skillicons.dev/icons?i=go,rust,kotlin)](https://skillicons.dev)
+[![Go Rust Kotlin](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
 
 **Web Frameworks & Frontend**\
-[![Next.js Astro React Laravel PHP TypeScript](https://skillicons.dev/icons?i=nextjs,astro,react,laravel,php,ts)](https://skillicons.dev)
+[![Next.js Astro React Laravel PHP TypeScript](https://skillicons.dev/icons?i=nextjs,react,laravel,php,ts)](https://skillicons.dev)
 
 **Mobile Development**\
-[![Flutter Dart Kotlin](https://skillicons.dev/icons?i=flutter,dart,kotlin)](https://skillicons.dev)
+[![Flutter Dart Kotlin](https://skillicons.dev/icons?i=flutter,kotlin)](https://skillicons.dev)
 
 **Infrastructure & DevOps (Currently Mastering)**\
-[![Docker DigitalOcean Ubuntu Cloudflare Terraform](https://skillicons.dev/icons?i=docker,ubuntu,cloudflare,terraform)](https://skillicons.dev)
-
----
-
-🐘 **How to reach me:** You can find me via my hub at [zvlz.my.id](https://zvlz.my.id) or ping me on GitHub!
+[![Docker DigitalOcean Ubuntu Cloudflare Terraform](https://skillicons.dev/icons?i=docker,ubuntu,cloudflare)](https://skillicons.dev)
