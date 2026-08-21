@@ -6,14 +6,6 @@ I'm a technology enthusiast who loves building web applications and exploring th
 
 ---
 
-### Connect with My Ecosystem
-
-- 📂 [**Zivalez Files** - Looking for something? Check out my personal file storage](https://files.zvlz.my.id)
-- 🛠️ [**Zivalez DevTools** - All-in-one developer utility suite](https://zivalez.my.id)
-- 🏠 [**Zivalez Hub** - My personal central gateway](https://zvlz.my.id)
-- 📸 [**Virtual Photography** - Explore my 3D projects and in-game captures](https://vp.zvlz.my.id)
-
-<!--
 **Zivalez/Zivalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
