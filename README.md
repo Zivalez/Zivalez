@@ -4,8 +4,7 @@
 
 I'm a technology enthusiast who loves building web applications and exploring the depths of cloud infrastructure. Currently focusing on mastering **DevOps workflows** and optimizing deployment pipelines.
 
----
-
+<!--
 **Zivalez/Zivalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
