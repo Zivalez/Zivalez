@@ -1,8 +1,8 @@
 # Hi there, I'm Aditya (Zivalez) 👋 
 
-### IT Student & Full-Stack Developer | Aspirant DevOps Engineer | Cloud Enthusiast
+### Full-Stack Web Dev | Into Cloud & DevOps
 
-I'm a technology enthusiast who loves building web applications and exploring the depths of cloud infrastructure. Currently focusing on mastering **DevOps workflows** and optimizing deployment pipelines.
+I really enjoy making useful apps for people and building stuff that stands out a bit. These days, I’m also messing around with **DevOps**, Linux servers, and automating deployments.
 
 <!--
 **Zivalez/Zivalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
